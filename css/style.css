@@ -1,0 +1,8 @@
+#tribute-link{
+  color: aliceblue;
+}
+#image {
+  display: flex;
+  width:auto;
+  justify-content:center;
+}
